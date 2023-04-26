@@ -17,11 +17,9 @@
 ## 🏅 Achievements
 
 -   📝 **5+ Times Global #1 Weekly Content Manager** at _Afrolady_ (August 2021)
--   🏆 **Top Rated** at _Upwork_ (September 2021)
--   ⏫ **Rising Talent** at _Upwork_ (July 2021)
--   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
--   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
--   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
+-   🏆 **Coding Influencer** at _ExquisiteBranding_ (September 2022)
+-   ⏫ **Rising Talent** at _HC BioTech_ (June 2022)
+-   ⭐ **Global rank 1600** at _Google Kickstart 2022 Round H_ (November 2022)
 
 ## 🛠️ Skills
 
