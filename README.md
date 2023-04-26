@@ -19,7 +19,8 @@
 -   📝 **5+ Times Global #1 Weekly Content Manager** at _Afrolady_ (August 2021)
 -   🏆 **Coding Influencer** at _ExquisiteBranding_ (September 2022)
 -   ⏫ **Rising Talent** at _HC BioTech_ (June 2022)
--   ⭐ **Global rank 1600** at _Google Kickstart 2022 Round H_ (November 2022)
+-   ⭐ **Global rank 1600** at _Google Kickstart 2022 Round H_ (December 2021)
+
 
 ## 🛠️ Skills
 
