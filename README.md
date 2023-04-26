@@ -66,7 +66,6 @@ Want to read more? [Check out all the blogs](https://buildclaw.com/blog/)
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=iluv27&show_icons=true&hide_border=true" alt="Joy Ehiedu's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=iluv27.iluv27" alt="visitors">
 </div>
 
 ## 🔗 Links
