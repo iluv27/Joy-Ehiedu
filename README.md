@@ -62,11 +62,11 @@ Want to read more? [Check out all the blogs](https://buildclaw.com/blog/)
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iluv27&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Joy Ehiedu's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=iluv27&show_icons=true&hide_border=true" alt="Joy Ehiedu's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=iluv27.iluv27" alt="visitors">
 </div>
 
 ## 🔗 Links
